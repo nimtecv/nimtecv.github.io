@@ -8,6 +8,29 @@ redirect_from:
   - /about.html
 ---
 The Computer Vision Technology team, with computer vision technology at its core, focuses on the research and development and application research of omnidirectional vision sensors, multi-source information fusion visualization, and intelligent image analysis. In the field of omnidirectional vision sensors, through stitching and fusion technology, a variety of omnidirectional vision sensors have been developed to achieve ultra-long distance and ultra-high-definition video image monitoring of large scenes. At the same time, based on panoramic video, combined with tilt measurement, multi-source information matching fusion and other technologies, research on multi-scale dynamic virtual reality fusion, multi-source heterogeneous data mining and intelligent analysis, AR three-dimensional presentation algorithm is conducted. In addition, in the field of intelligent image analysis, the main focus is on the research of artificial intelligence recognition and analysis technology for small sample, weak difference, and multi-category complex scenes. The team has undertaken key projects such as the National Science and Technology Support Plan, the Chinese Academy of Sciences STS Project, the 863 Plan, provincial and municipal level projects, and several technical commissioned development projects. There are currently 20 full-time employees and 30 graduate students.
+
+
+Research direction
+1 Omnidirectional vision sensor technology
+This research direction mainly carries out research on key technologies such as omnidirectional perception and intelligent perception of omnidirectional vision sensors, develops high-performance omnidirectional perception systems suitable for security monitoring, industrial manufacturing and other fields, and focuses on improving the rapid perception ability of sensors, flexible deployment methods, low power consumption and low-cost optimization design, etc.
+2 AR three-dimensional virtual and real dynamic fusion and stereoscopic presentation technology
+1) High-precision modeling technology
+This research direction is mainly dedicated to the research of high-precision 3D real scene reconstruction technology by integrating multi-source data such as laser LiDAR point cloud and visible light image, focusing on the research of 3D panoramic laser scanning backpack, IMU-coupled laser radar SLAM algorithm, implicit surface reconstruction method based on deep learning, and space-ground integrated modeling technology based on multi-source data fusion, etc.
+2) AR three-dimensional virtual and real dynamic fusion and presentation technology 
+This research direction mainly focuses on the research of mining, fusion, analysis and presentation technology of multi-source heterogeneous data, focusing on the research of multi-sensor data fusion technology, video AI behavior analysis and recognition algorithm, intelligent linkage technology of multi-sensor and multi-type event information, 3D situation construction and AR stereoscopic presentation technology, etc.
+3 Image intelligent recognition and analysis technology
+1) Visual intelligent analysis technology for industrial/agricultural applications
+The research focuses on the visual intelligent analysis technology for industrial and agricultural applications, including object surface defect detection system, high-speed target detection system, robot 2D/3D visual servo control and target capture system, visual intelligent analysis and agricultural equipment intelligent perception in digital agriculture, human body posture detection technology based on image and sparse IMU fusion, etc.
+2) Intelligent recognition and analysis technology for complex scenes
+This research direction mainly carries out research on artificial intelligence recognition and analysis technology for complex scenes with few samples, weak differences and multiple types, and provides theoretical basis and prototype verification for the promotion of machine learning in key application fields of intelligent detection. The key research includes real-time low-light high-definition imaging technology, indoor 3D scene semantic segmentation method, laser speckle image information extraction method, and deep learning-based nematode recognition technology, etc.
+3) Behavior recognition and abnormal event detection based on video big data
+Around video motion estimation, video human behavior understanding (video/skeleton human action recognition and positioning, posture estimation, gesture recognition, crowd abnormal event detection), aiming at the difficult problems such as perspective difference, multi-target, small target, and difficult feature extraction in complex video monitoring environment, a deep learning-based intelligent behavior analysis platform has been developed, including intelligent supervision system based on human action behavior recognition, public service and industrial personnel behavior analysis and early warning system and other video big data intelligent analysis systems.
+
+Research conditions
+The team has established the Zhejiang Provincial Key Laboratory of Robot and Intelligent Manufacturing Equipment Technology, and has formed six experimental platforms, including intelligent perception technology R&D platform, 3D visualization presentation platform, machine vision detection platform, AR intelligent analysis platform, and UAV development platform. It has more than 200 scientific research instruments and equipment with a total value of more than 5 million yuan, which provides a solid guarantee for the team to carry out basic scientific research in the field of computer vision technology.
+
+Research results
+
 <table>
   <tr>
   <td height="20" class="xl69" width="72" style="height:15.0pt;width:54pt">NO.</td>
