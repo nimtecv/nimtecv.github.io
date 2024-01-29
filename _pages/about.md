@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Presentation of the team"
-excerpt: "About me"
+excerpt: "About the team"
 author_profile: true
 redirect_from: 
   - /about/
