@@ -9,9 +9,9 @@
 locale                   : "CN"
 title                    : "Team homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://github.com/nimtecv/nimtecv.github.io
+name                     : &name "nimtecv"
+description              : &description "team description"
+url                      : https://nimtecv.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nimtecv/nimtecv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
