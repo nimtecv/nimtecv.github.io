@@ -1,6 +1,3 @@
----
-
----
 <table>
   <tr>
   <td height="20" class="xl69" width="72" style="height:15.0pt;width:54pt">NO.</td>
