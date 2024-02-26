@@ -1,17 +1,16 @@
-# main links links
+    # main links links
 main:
-- title: "PEOPLE"
+  - title: "PEOPLE"
     url: /people/
 
-- title: "PUBLICATIONS"
-    url: /publications/
+  - title: "PUBLICATIONS"
+    url: /publications/    
 
-- title: "RESEARCH"
+  - title: "RESEARCH"
     url: /research/    
-
-- title: "CODE"
-    url: /code/       
+    
+  - title: "CODE"
+    url: /code/
         
-- title: "NEWS"
+  - title: "NEWS"
     url: /news/
-
