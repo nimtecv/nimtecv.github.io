@@ -3,15 +3,15 @@ main:
 - title: "PEOPLE"
     url: /people/
 
-  - title: "PUBLICATIONS"
+- title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "RESEARCH"
+- title: "RESEARCH"
     url: /research/    
 
-  - title: "CODE"
+- title: "CODE"
     url: /code/       
         
-  - title: "NEWS"
+- title: "NEWS"
     url: /news/
 
