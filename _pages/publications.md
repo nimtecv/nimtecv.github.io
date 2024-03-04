@@ -5,9 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-{% include base_path %}
+---
+[1]Mao T, Zhuang J, Liang L, et al. Design of on-chip coded high-resolution 2D imaging via 3D compressed sensing[J]. Optics and Lasers in Engineering, 2024, 175: 107995.[下载链接]:https://doi.org/10.1016/j.optlaseng.2023.107995 <br />
+[2]Chen X, Jia T, Xiao J, et al. Real-time self-supervised tone curve estimation for HDR image[J]. Computers & Graphics, 2023, 115: 461-471.[下载链接]:https://doi.org/10.1016/j.cag.2023.07.034<br />
+[3]Liao X, Zhuang J, Liu Z, et al. Reconstructing 3D human pose and shape from a single image and sparse IMUs[J]. PeerJ Computer Science, 2023, 9: e1401.[下载链接]:https://peerj.com/articles/cs-1401/ <br />
+[4]Zhu Y, Zhuang J, Ye S, et al. Domain generalization in nematode classification[J]. Computers and Electronics in Agriculture, 2023, 207: 107710.[下载链接]:    	https://doi.org/10.1016/j.compag.2023.107710 <br />
+[5]Feng H, Chen X, Zhuang J, et al. Buckle Pose Estimation Using a Generative Adversarial Network[J]. Applied Sciences, 2023, 13(7): 4220.[下载链接]:https://doi.org/10.3390/app13074220<br />
+[6]Jin T, Zhuang J, Xiao J, et al. Prior-Driven NeRF: Prior Guided Rendering[J]. Electronics, 2023, 12(4): 1014.[下载链接]:https://doi.org/10.3390/electronics12041014<br />
+[7]Wang C, Zhuang J, Ye S, et al. Data-Decoupled Scattering Imaging Method Based on Autocorrelation Enhancement[J]. Applied Sciences, 2023, 13(4): 2394.[下载链接]:https://doi.org/10.3390/app13042394<br />
+[8]Jin T, Zhuang J, Xiao J, et al. Reconstructing Floorplans from Point Clouds Using GAN[J]. Journal of Imaging, 2023, 9(2): 39.[下载链接]:https://doi.org/10.3390/jimaging9020039<br />
+[9]Wang Z, Zhuang J, Ye S, et al. Image restoration quality assessment based on regional differential information entropy[J]. Entropy, 2023, 25(1): 144.[下载链接]:https://doi.org/10.3390/e25010144<br />
+[10]Liu Y, Sun S, Wang J, et al. Tribological behaviors of LDED Inconel 718 samples polished with a hybrid laser polishing technique[J]. Journal of Materials Research and Technology, 2023.[下载链接]:https://doi.org/10.1016/j.jmrt.2023.05.230<br />
+[11]Junke J, Jihao X U, Chenghu J, et al. Laser welding process and strength enhancement of carbon fiber reinforced thermoplastic composites and metals dissimilar joint: A review[J]. Chinese Journal of Aeronautics, 2023.[下载链接]:https://doi.org/10.1016/j.cja.2023.02.025<br />
+[12]Liao X, Dong J, Song K, et al. Three-Dimensional Human Pose Estimation from Sparse IMUs through Temporal Encoder and Regression Decoder[J]. Sensors, 2023, 23(7): 3547.[下载链接]:https://doi.org/10.3390/s23073547<br />
+[13]Ru H, Su K, Xiao J, et al. Research status and development trend of magnetic adsorption wall climbing robot[C]//Proceedings of the 2023 3rd International Conference on Robotics and Control Engineering. 2023: 81-89.[下载链接]:https://doi.org/10.1145/3598151.3598166<br />
+[14]Bu N, Ge J, Yang J, et al. Emergency Landing System of Rotor UAV in Complex Ground Environment[C]//International Conference on Autonomous Unmanned Systems. Singapore: Springer Nature Singapore, 2022: 2954-2964.[下载链接]:https://doi.org/10.1007/978-981-99-0479-2_273<br />
