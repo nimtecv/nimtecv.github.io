@@ -10,18 +10,20 @@ author_profile: true
 This research direction mainly carries out the research of key technologies such as omnidirectional perception and intelligent perception of omnidirectional vision sensors, and develops high-performance omnidirectional perception systems suitable for security monitoring, industrial manufacturing and other fields, focusing on improving the rapid perception ability of sensors, flexible deployment methods, and low-power and low-cost optimization design.
 
 ## （2） AR three-dimensional virtual and real dynamic fusion and three-dimensional presentation technology
+
 ### (1) High-precision modeling technology
 <img  align="left" src="https://github.com/nimtecv/nimtecv.github.io/raw/master//images/02.png"   width="200px" />
 This research direction is mainly committed to the fusion of multi-source data such as laser LiDAR point clouds and visible light images, and carries out high-precision research on 3D real-world reconstruction technology, including the research and development of 3D panoramic laser scanning backpack, IMU tightly coupled LiDAR SLAM algorithm, implicit surface reconstruction method based on deep learning, and air-ground integrated joint modeling technology based on multi-source data fusion.<br>
 
 ### (2) HAR three-dimensional virtual and real dynamic fusion and presentation technology
 <img  align="left" src="https://github.com/nimtecv/nimtecv.github.io/raw/master//images/03.png"   width="200px" />
-This research direction is mainly committed to the mining, fusion, analysis and presentation technology of multi-source heterogeneous data, focusing on the fusion technology of multi-sensor data, video AI behavior analysis and recognition algorithm, multi-sensor and multi-type event information intelligent linkage technology, three-dimensional situation construction and AR three-dimensional presentation technology.
+This research direction is mainly committed to the mining, fusion, analysis and presentation technology of multi-source heterogeneous data, focusing on the fusion technology of multi-sensor data, video AI behavior analysis and recognition algorithm, multi-sensor and multi-type event information intelligent linkage technology, three-dimensional situation construction and AR three-dimensional presentation technology.<br>
 
 ## （3） Intelligent image recognition and analysis technology
 ### (1) Visual intelligence analysis technology for industrial/agricultural applications
 <img  align="left" src="https://github.com/nimtecv/nimtecv.github.io/raw/master//images/04.png"   width="200px" />
 It focuses on the research of visual intelligent analysis technology for industrial and agricultural applications, including object surface defect detection system, high-speed target detection system, robot 2D/3D visual servo control and target grasping system, visual intelligent analysis in digital agriculture and intelligent perception of agricultural machinery and equipment, human posture detection technology that fuses images and sparse IMUs, etc.
+
 
 ### (2) Intelligent recognition and analysis technology for complex scenes
 <img  align="left" src="https://github.com/nimtecv/nimtecv.github.io/raw/master//images/05.png"   width="200px" />
