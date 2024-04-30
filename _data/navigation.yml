@@ -3,6 +3,9 @@ main:
   - title: "PEOPLE"
     url: /people/
 
+  - title: "project"
+    url: /news/
+
   - title: "PUBLICATIONS"
     url: /publications/    
 
@@ -12,5 +15,4 @@ main:
   - title: "CODE"
     url: /code/
         
-  - title: "NEWS"
-    url: /news/
+
