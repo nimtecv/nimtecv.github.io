@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ---
+##2024
+[1]Jin X, Ge J, Xiao J, et al. IPAL: Infinite Planes as Lines for Consistent Mapping in Indoor Multi-floor Environments[J]. IEEE Transactions on Instrumentation and Measurement, 2024.[DownLink](https://zxczhai.github.io/IPAL/)<br />
+[2]Qin S, Xiao J, Ge J. Dip-NeRF: Depth-Based Anti-Aliased Neural Radiance Fields[J]. Electronics, 2024, 13(8): 1527.[DownLink](https://qinshihao12.github.io/Dip-NeRF/)<br />
+##2023
 [1]Mao T, Zhuang J, Liang L, et al. Design of on-chip coded high-resolution 2D imaging via 3D compressed sensing[J]. Optics and Lasers in Engineering, 2024, 175: 107995.[DownLink](https://doi.org/10.1016/j.optlaseng.2023.107995) <br />
 [2]Chen X, Jia T, Xiao J, et al. Real-time self-supervised tone curve estimation for HDR image[J]. Computers & Graphics, 2023, 115: 461-471.[DownLink](https://doi.org/10.1016/j.cag.2023.07.034)<br />
 [3]Liao X, Zhuang J, Liu Z, et al. Reconstructing 3D human pose and shape from a single image and sparse IMUs[J]. PeerJ Computer Science, 2023, 9: e1401.[DownLink](https://peerj.com/articles/cs-1401)<br />
@@ -13,7 +17,7 @@ author_profile: true
 [5]Feng H, Chen X, Zhuang J, et al. Buckle Pose Estimation Using a Generative Adversarial Network[J]. Applied Sciences, 2023, 13(7): 4220.[DownLink](https://doi.org/10.3390/app13074220)<br />
 [6]Jin T, Zhuang J, Xiao J, et al. Prior-Driven NeRF: Prior Guided Rendering[J]. Electronics, 2023, 12(4): 1014.[DownLink](https://doi.org/10.3390/electronics12041014)<br />
 [7]Wang C, Zhuang J, Ye S, et al. Data-Decoupled Scattering Imaging Method Based on Autocorrelation Enhancement[J]. Applied Sciences, 2023, 13(4): 2394.[DownLink](https://doi.org/10.3390/app13042394)<br />
-[8]Jin T, Zhuang J, Xiao J, et al. Reconstructing Floorplans from Point Clouds Using GAN[J]. Journal of Imaging, 2023, 9(2): 39.[[DownLink]](#https://doi.org/10.3390/jimaging9020039)<br />
+[8]Jin T, Zhuang J, Xiao J, et al. Reconstructing Floorplans from Point Clouds Using GAN[J]. Journal of Imaging, 2023, 9(2): 39.[DownLink](#https://doi.org/10.3390/jimaging9020039)<br />
 [9]Wang Z, Zhuang J, Ye S, et al. Image restoration quality assessment based on regional differential information entropy[J]. Entropy, 2023, 25(1): 144.[DownLink](https://doi.org/10.3390/e25010144)<br />
 [10]Liu Y, Sun S, Wang J, et al. Tribological behaviors of LDED Inconel 718 samples polished with a hybrid laser polishing technique[J]. Journal of Materials Research and Technology, 2023.[DownLink](https://doi.org/10.1016/j.jmrt.2023.05.230)<br />
 [11]Junke J, Jihao X U, Chenghu J, et al. Laser welding process and strength enhancement of carbon fiber reinforced thermoplastic composites and metals dissimilar joint: A review[J]. Chinese Journal of Aeronautics, 2023.[DownLink](https://doi.org/10.1016/j.cja.2023.02.025)<br />
