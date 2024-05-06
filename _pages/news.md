@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## "Dip-NeRF: Depth-Based Anti-Aliased Neural Radiance Fields"
+## Dip-NeRF: Depth-Based Anti-Aliased Neural Radiance Fields
 ### Shihao Qin1,2   Jiangjian Xiao2   Jianfei Ge2*  
 ### 1 Faculty of Electrical Engineering and Computer Science, Ningbo University    2 Ningbo Institute of Industrial Technology, Chinese Academy of Sciences    * Corresponding author    
 <img  align="left" src="https://github.com/nimtecv/nimtecv.github.io/raw/master//images/qing.png"   width="200px" />
