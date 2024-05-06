@@ -7,8 +7,8 @@ author_profile: true
 
 ---
 # 2024
-[1]Jin X, Ge J, Xiao J, et al. IPAL: Infinite Planes as Lines for Consistent Mapping in Indoor Multi-floor Environments[J]. IEEE Transactions on Instrumentation and Measurement, 2024.[DownLink](https://zxczhai.github.io/IPAL/)<br />
-[2]Qin S, Xiao J, Ge J. Dip-NeRF: Depth-Based Anti-Aliased Neural Radiance Fields[J]. Electronics, 2024, 13(8): 1527.[DownLink](https://qinshihao12.github.io/Dip-NeRF/)<br />
+[[1]Jin X, Ge J, Xiao J, et al. IPAL: Infinite Planes as Lines for Consistent Mapping in Indoor Multi-floor Environments[J]. IEEE Transactions on Instrumentation and Measurement, 2024.](https://zxczhai.github.io/IPAL/)<br />
+[[2]Qin S, Xiao J, Ge J. Dip-NeRF: Depth-Based Anti-Aliased Neural Radiance Fields[J]. Electronics, 2024, 13(8): 1527.](https://qinshihao12.github.io/Dip-NeRF/)<br />
 # 2023
 [1]Mao T, Zhuang J, Liang L, et al. Design of on-chip coded high-resolution 2D imaging via 3D compressed sensing[J]. Optics and Lasers in Engineering, 2024, 175: 107995.[DownLink](https://doi.org/10.1016/j.optlaseng.2023.107995) <br />
 [2]Chen X, Jia T, Xiao J, et al. Real-time self-supervised tone curve estimation for HDR image[J]. Computers & Graphics, 2023, 115: 461-471.[DownLink](https://doi.org/10.1016/j.cag.2023.07.034)<br />
