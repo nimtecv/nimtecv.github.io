@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "project"
+title: "Project"
 permalink: /news/
 author_profile: true
 redirect_from:
