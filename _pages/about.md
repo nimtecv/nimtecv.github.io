@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "nimte CV-lab"
+title: "NIMTE CV-lab"
 excerpt: "About the team"
 author_profile: true
 redirect_from: 
